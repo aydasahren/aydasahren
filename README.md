@@ -20,7 +20,11 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 ### 📌 Projects I’m Proud Of
 
-#### - Predictive Modelling 
+#### 📊 Data Analysis & Visualization
+
+- ** Power BI - COMING SOON ** 
+
+#### 🔮 Predictive Modeling
 
 - 🔐 [**Fraud Detection with Explainable AI** – Group Project](https://github.com/amiramusannef/final_novelty_credit_card_fraud_detection.git)
   
@@ -28,4 +32,9 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
   Built an artificial neural network (ANN) to detect fraudulent credit card transactions, and used SHAP for interpretability to understand key predictive features.  
   **My role:** Model training, SHAP visualization, and performance evaluation.
 
----
+#### 🔎 Personal Interests 
+
+- ** Recommender System - COMING SOON** 
+
+
+
