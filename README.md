@@ -22,7 +22,7 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 #### Predictive Modelling 
 
-- 🔐 [**Fraud Detection with Explainable AI** – Group Project](https://github.com/amiramusannef/final_novelty_credit_card_fraud_detection.git)
+- 🔐 [**Fraud Detection with Explainable AI**(https://github.com/amiramusannef/final_novelty_credit_card_fraud_detection.git) – Group Project]
   
   *Co-developed in* **DS 340W: Applied Data Sciences**  
   Built an artificial neural network (ANN) to detect fraudulent credit card transactions, and used SHAP for interpretability to understand key predictive features.  
