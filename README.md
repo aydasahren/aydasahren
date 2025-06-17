@@ -30,7 +30,7 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
   
   *Co-developed in* **DS 340W: Applied Data Sciences**  
   Built an artificial neural network (ANN) to detect fraudulent credit card transactions, and used SHAP for interpretability to understand key predictive features.  
-  **My role:** Model training, SHAP visualization, and performance evaluation.
+  **My role:** Model building/training, SHAP visualization, and performance evaluation.
 
 #### 🔎 Personal Interests 
 
