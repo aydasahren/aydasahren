@@ -1,4 +1,4 @@
-<h1 align="center"> Nice meeting you! I'm Ayda 👋 </h1>
+<h1 align="center">Hi, there! Glad seeing you, I'm Ayda 👋</h1>
 <h3 align="center">Data Science | Business Analytics | Storytelling with Data</h3>
 
 <p align="center">
