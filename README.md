@@ -20,9 +20,9 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 ### 📌 Projects I’m Proud Of
 
-#### Predictive Modelling 
+#### - Predictive Modelling 
 
-- 🔐 [**Fraud Detection with Explainable AI**(https://github.com/amiramusannef/final_novelty_credit_card_fraud_detection.git) – Group Project]
+- 🔐 [**Fraud Detection with Explainable AI** – Group Project](https://github.com/amiramusannef/final_novelty_credit_card_fraud_detection.git)
   
   *Co-developed in* **DS 340W: Applied Data Sciences**  
   Built an artificial neural network (ANN) to detect fraudulent credit card transactions, and used SHAP for interpretability to understand key predictive features.  
