@@ -20,13 +20,10 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 ### 📌 Projects I’m Proud Of
 
-- 🔐 [Group Project: **Fraud Detection with Explainable AI**]()
-  
-  Co-developed during [DS 340w: Applied Data Sciences].
-  
-  Built an ANN model and interpreted results with SHAP — bridging performance and interpretability in fintech
-  
-  **My contributions**: data preprocessing, visualization, and model training.
 
+- 🔐 [**Fraud Detection with Explainable AI** – Group Project](https://github.com/friendusername/project-repo)  
+  *Co-developed in* **DS 340W: Applied Data Sciences**  
+  Built an artificial neural network (ANN) to detect fraudulent credit card transactions, and used SHAP for interpretability to understand key predictive features.  
+  **My role:** Data preprocessing, model training, SHAP visualization, and performance evaluation.
 
 ---
