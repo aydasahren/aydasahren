@@ -20,7 +20,10 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 ### 📌 Projects I’m Proud Of
 
-- 🔐 [**Fraud Detection with Explainable AI**]()  
+- 🔐 [Group Project: **Fraud Detection with Explainable AI**]()
+  Co-developed during [DS 340w: Applied Data Sciences].
   Built an ANN model and interpreted results with SHAP — bridging performance and interpretability in fintech
+  **My contributions**: data preprocessing, visualization, and model training.
+
 
 ---
