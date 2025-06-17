@@ -14,7 +14,9 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
   
 - 🧰 Skilled in **Python**, **Power BI**, and **SQL** 
   
-- 💼 Currently interning with **KLCC Group** in Corporate Strategy 
+- 💼 Currently interning with **KLCC Group** in Corporate Strategy
+
+- 🍇🪻 Fun fact: I am obssesed with anything in lilac, The Hunger Games movies & solving puzzles for fun!
 
 ---
 
