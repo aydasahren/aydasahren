@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=aydasahren&label=Profile%20views&color=0e75b6&style=flat" alt="aydasahren" />
 </p>
 
-Originally from Johor, Malaysia - I am currently pursuing Data Science at Penn State University.  
+Originally from Johor, Malaysia - I am currently pursuing a bachelor's degree in Data Science at Penn State University, USA.  
 I enjoy discovering new tools and methods to help me see the bigger picture in transforming and solving data. 
 
 ### 💡 What I’m About
@@ -14,7 +14,7 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
   
 - 🧰 Skilled in **Python**, **Power BI**, and **SQL** 
   
-- 💼 Recently interned with **KLCC Group** in Corporate Strategy 
+- 💼 Currently interning with **KLCC Group** in Corporate Strategy 
 
 ---
 
