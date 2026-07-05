@@ -1,11 +1,11 @@
 <h1 align="center">Hi, there! Glad seeing you, I'm Ayda 👋</h1>
-<h3 align="center">Business Intelligence Analyst / Data Analyst / Data Scientist</h3>
+<h3 align="center">Data Analyst / Business Intelligence Analyst / Data Scientist</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aydasahren&label=Profile%20views&color=0e75b6&style=flat" alt="aydasahren" />
 </p>
 
-Originally from Johor, Malaysia - I am currently pursuing a bachelor's degree in Data Science at Penn State University, USA. 
+Originally from Johor, Malaysia - I recently graduated with a bachelor's degree in Data Science at Penn State University, USA. 
 I enjoy discovering new tools and methods to help me see the bigger picture in transforming and solving data. 
 
 ### 💡 What I’m About
