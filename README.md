@@ -12,13 +12,13 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 ### 🪻 About Me
 
-🎓 Fresh **B.S. in Data Science** grad from **Penn State University** *(Class of May 2026)*, originally from **Johor, Malaysia** 🇲🇾
-🧠 Curious about **machine learning**, **fintech**, and turning models into real **business decisions**
-🔎 I love hunting down new tools and methods that help me see the **bigger picture** in any dataset
-📊 Currently **seeking full-time opportunities** — let's build something data-driven together!
-🪻 Fun facts: I'm *obsessed* with all things **lilac**, I could rewatch **The Hunger Games** forever, and I solve **puzzles** for fun (basically I get paid — hopefully soon — to solve them too)
+- 🎓 Fresh **B.S. in Data Science** grad from **Penn State University** *(Class of May 2026)*, originally from **Johor, Malaysia** 🇲🇾
+- 🧠 Curious about **machine learning**, **fintech**, and turning models into real **business decisions**
+- 🔎 I love hunting down new tools and methods that help me see the **bigger picture** in any dataset
+- 📊 Currently **seeking full-time opportunities** — let's build something data-driven together!
+- 🪻 Fun facts: I'm *obsessed* with all things **lilac**, I could rewatch **The Hunger Games** forever, and I solve **puzzles** for fun (basically I get paid — hopefully soon — to solve them too)
 
-> *"May the odds — and the p-values — be ever in your favor."* 🏹
+> *"May the odds, (and the continous commit changes), be ever in your favor."* 🏹
 
 ---
 
