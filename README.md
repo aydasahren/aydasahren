@@ -8,15 +8,17 @@
 Originally from Johor, Malaysia - I recently graduated with a bachelor's degree in Data Science at Penn State University, USA. 
 I enjoy discovering new tools and methods to help me see the bigger picture in transforming and solving data. 
 
-### 💡 What I’m About
+---
 
-- 🧠 Curious about **machine learning** , **fintech** & **business applications** 
-  
-- 🧰 Frequently utilized and proficient in **Python**, **R**, **SQL** and **Power BI**
+### 🪻 About Me
 
-- 📑 Actively seeking full-time opportunities after graduating **May 2026** 
+🎓 Fresh **B.S. in Data Science** grad from **Penn State University** *(Class of May 2026)*, originally from **Johor, Malaysia** 🇲🇾
+🧠 Curious about **machine learning**, **fintech**, and turning models into real **business decisions**
+🔎 I love hunting down new tools and methods that help me see the **bigger picture** in any dataset
+📊 Currently **seeking full-time opportunities** — let's build something data-driven together!
+🪻 Fun facts: I'm *obsessed* with all things **lilac**, I could rewatch **The Hunger Games** forever, and I solve **puzzles** for fun (basically I get paid — hopefully soon — to solve them too)
 
-- 🪻 Fun fact: I am obssesed with anything in lilac, The Hunger Games movies & solving puzzles for fun!
+> *"May the odds — and the p-values — be ever in your favor."* 🏹
 
 ---
 
@@ -36,7 +38,41 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 #### 🔎 Personal Interests 
 
-- ** Recommender System - COMING SOON** 
+- ** Recommender System - COMING SOON**
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Data & Machine Learning**
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![SHAP](https://img.shields.io/badge/-SHAP-9B72CF?style=flat-square&logo=python&logoColor=white)
+
+**BI & Visualization**
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Tools & Environments**
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+
+---
 
 
 
