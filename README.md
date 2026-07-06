@@ -16,7 +16,7 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 - 🧠 Curious about **machine learning**, **fintech**, and turning models into real **business decisions**
 - 🔎 I love hunting down new tools and methods that help me see the **bigger picture** in any dataset
 - 📊 Currently **seeking full-time opportunities** — let's build something data-driven together!
-- 🪻 Fun facts: I'm *obsessed* with all things **lilac**, I could rewatch **The Hunger Games** forever, and I solve **puzzles** for fun (basically I get paid — hopefully soon — to solve them too)
+- 🪻 Fun facts: I'm *obsessed* with all things **lilac**, I could rewatch **The Hunger Games** forever, and I solve **puzzles** for fun
 
 > *"May the odds, (and the continous commit changes), be ever in your favor."* 🏹
 
