@@ -30,8 +30,7 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 
 #### 🔮 Predictive Modeling
 
-- 🔐 [**Financial Behaviour Prediction System** – Capstone Project]
-(https://github.com/kgf5124/FinancialBehaviorXAI.git)
+- 🔐 [**Financial Behaviour Prediction System** – Capstone Project](https://github.com/kgf5124/FinancialBehaviorXAI.git)
   
   *Developed in* **DS 440: Data Sciences Capstone Course**  
   Built an explainable ML pipeline that predicts monthly consumer overspending from transaction data. Engineers behavioral features (spending trends, volatility, frequency, and habit indicators) from the Sparkov dataset, compares multiple classifiers with class-weighting and hyperparameter tuning, and uses SHAP to explain which spending behaviors drive each prediction.  
