@@ -33,12 +33,14 @@ I enjoy discovering new tools and methods to help me see the bigger picture in t
 - 🔐 [**Financial Behaviour Prediction System** – Capstone Project](https://github.com/kgf5124/FinancialBehaviorXAI.git)
 
   **Developed in DS 440: Data Sciences Capstone Course**
+
   Built an explainable ML pipeline that predicts monthly consumer overspending from transaction data. Engineers behavioral features (spending trends, volatility, frequency, and habit indicators) from the Sparkov dataset, compares multiple classifiers with class-weighting and hyperparameter tuning, and uses SHAP to explain which spending behaviors drive each prediction.  
   👩🏻‍💻 **My role:** model building/training, model improvements, performance evaluation and report writing.
 
 - 🔐 [**Fraud Detection with Explainable AI** – Group Project](https://github.com/amiramusannef/final_novelty_credit_card_fraud_detection.git)
   
-  **Co-developed in DS 340W: Applied Data Sciences**  
+  **Co-developed in DS 340W: Applied Data Sciences**
+
   Built an artificial neural network (ANN) to detect fraudulent credit card transactions, and used SHAP for interpretability to understand key predictive features.  
   👩🏻‍💻 **My role:** model building/training, SHAP visualization, and performance evaluation.
 
